@@ -1,1 +1,5 @@
-# this is a repo with some stuff
+# 3d game im making
+
+---
+
+its not finished
