@@ -1,0 +1,24 @@
+{
+  "name": "3dgame",
+  "version": "1.0.0",
+  "description": "idk",
+  "main": "node.js",
+  "scripts": {
+    "start": "node node.js",
+    "test": "node node.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geodebreaker/3d.git"
+  },
+  "keywords": [
+    "3d",
+    "game"
+  ],
+  "author": "geodebreaker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/geodebreaker/3d/issues"
+  },
+  "homepage": "https://github.com/geodebreaker/3d#readme"
+}
